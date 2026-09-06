@@ -14,7 +14,7 @@
 
 ### About Me
 
-- Senior Golang Engineer with **6+ years** in software engineering, **3+ years** building production Go services
+- Senior Golang Engineer with **7+ years** in software engineering, **4+ years** building production Go services
 - Focused on high-load distributed systems, microservices, and cloud-native architectures
 - Experienced feature owner — delivering complex solutions end-to-end, from design to production
 - Based in **EU** 🇪🇺, working remotely
